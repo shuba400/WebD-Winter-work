@@ -1,0 +1,144 @@
+
+/*===============================container 1==============================*/
+.ts{
+  background-color: #6c7b95;
+
+  margin-left: 50px;
+  margin-right:50px;
+}
+.tlink1{
+  font-family: 'Poiret One', cursive ;
+  display: inline-block;
+  margin-left: 1190px;
+  }
+  .tlink2{
+    font-family: 'Poiret One', cursive ;
+    display: inline-block;
+    margin-left: 30px;
+  }
+/*==================================container 2===========================*/
+
+
+
+
+/*.topimg{
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+
+}*/
+
+.img1{
+  width: 200px;
+  height: 200px;
+  margin-left: 400px;
+  margin-top: 20px;
+}
+
+
+.tc{
+  background-color: #464159;
+  font-family: 'Sofia';
+  width: 1500px;
+  display: inline-block;
+  height: 1050px;
+}
+
+.c1{
+  color: #8bbabb;
+  font-size: 80px;
+  display: inline-block;
+margin-left: 550px;
+  font-family: 'Sofia';
+  width: 350px;
+  height: 200px;
+}
+
+.c2{
+  margin-left: 50px;
+  font-family: 'Poiret One', cursive ;
+
+  display: inline-block;
+
+  font-size: 200px;
+}
+
+.c3{
+  font-family: 'Poiret One', cursive ;
+  font-size: 40px;
+  display: inline-block;
+  margin-left: 30px;
+  width: 70px;
+  height: 250px;
+
+
+
+}
+
+h3 {
+    color: #ffffff;
+    font-size: 1em;
+    font-family: 'Poiret One', cursive ;
+
+  }
+
+  p {
+    color: #ffffff;
+    ;
+  }
+
+
+  hr{
+    border: solid #ffffff 5px;
+    border-bottom: none;
+width:100%;
+}
+
+li{
+color: #ffffff;
+}
+
+dt{
+color: #ffffff;
+}
+
+
+
+a{
+  color: #4E4E50;
+}
+
+
+
+.down{
+  background-color: #6c7b95;
+  margin-top: 5px;
+}
+
+
+.hobb
+{
+  font-size: 25px;
+  margin-left: 30px;
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+
+}
+
+.img2{
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  display: inline-block;
+  margin-top: 30px;
+  margin-left: 400px;
+
+}
+
+.cm{
+  display: inline-block;
+  margin-left: 650px;
+  font-size: 30px;
+
+}
