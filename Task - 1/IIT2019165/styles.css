@@ -1,0 +1,33 @@
+p{
+    padding: 10px; 
+}
+img{
+    border-radius: 20%;
+}
+header{
+    color:#070606;
+    opacity: 0.25;
+    padding: 20px 30px;
+}
+body{
+   
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    background: #F0F098;
+    padding: 0px 200px;
+    width: 60%; 
+}
+body a.image{
+    padding : 0px 150px;
+    
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.block{
+    float: left; 
+    padding: 20px 20px; 
+    width= "100";
+}
