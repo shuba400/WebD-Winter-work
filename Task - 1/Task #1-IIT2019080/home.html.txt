@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" type="text/css" href="home.css">
+	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap" rel="stylesheet">
+</head>
+<body>
+	<div id="grey">
+		<a href="home.html">HOME</a>
+		<a href="portfolio.html">ABOUT</a>
+	</div>
+	<img src="C:\Users\manik\Pictures\photo.png">
+	<p>
+		Ranveer Singh
+	</p>
+	<p class="small">
+   		 Student at IIIT Allahabad
+	</p>
+	<p class="small">
+		Contact me at:
+		<br>
+		<img class="little" src="C:\Users\manik\Desktop\phone.png">
+		+91-9465991817
+        <br>
+		<a class="space" href="https://www.facebook.com/manik.sidana.98"> <img class="little" src="C:\Users\manik\Desktop\facebook logo.png"> </a>
+		<a class="space" href="https://github.com/Ranveer251"> <img class="little" src="C:\Users\manik\Desktop\github logo.png"> </a>
+		<a class="space" href="https://www.instagram.com/ranveersidana"> <img class="little" src="C:\Users\manik\Desktop\instagram.jpg"> </a>
+	</p>
+
+</body>
+</html>
