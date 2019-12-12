@@ -1,0 +1,45 @@
+body{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 20px solid #bdc3c7;
+	padding-left: 20px; 
+	padding-right: 20px;
+	background-image: url('Blog3.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+p{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 200;
+	color: white; 
+
+}
+
+.date {
+	font-size: 15px;
+	
+	text-transform: uppercase;
+	color: rgba(227, 255, 18,0.5);
+
+}
+
+.title{
+	font-size: 40px;
+	font-weight: 800;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: rgba(216, 219, 235,1);
+
+}
+
+.first{
+	border-left: 3px solid #bdc3c7; 
+	padding-left: 2px;
+}
+
+div{
+	margin-bottom: 30px;
+	border-bottom: 1px solid #bdc3c7;
+}
