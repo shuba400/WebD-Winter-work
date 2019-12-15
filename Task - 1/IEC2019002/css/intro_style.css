@@ -1,0 +1,18 @@
+body {
+position: absolute;
+width: 1809px;
+height: 992px;
+left: 45px;
+top: 25px;
+background-image: url(Images/cicuit.png);
+background-size:cover;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 60px;
+
+color: rgb(225, 255, 225);
+
+
+}

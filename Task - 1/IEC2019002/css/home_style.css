@@ -1,0 +1,134 @@
+body {
+position: absolute;
+width: 1830px;
+height: 950px;
+
+background: url(Images/background.png);
+background-size: cover;
+box-sizing: border-box;
+
+}
+#profile {
+position: absolute;
+width: 316px;
+height: 632px;
+left: 261px;
+top: 159px;
+
+background: url(Images/profile_pic.png);
+border-width: 5px;
+border-image-source: linear-gradient(180deg, rgb(0, 0, 0), #31862F);
+  border-image-slice: 1;
+}
+h1 {
+position: absolute;
+width: 730px;
+height: 142px;
+left: 1109px;
+top: 90px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 108px;
+
+color: #BAE1B9;
+
+
+}
+h2 {
+position: absolute;
+width: 696px;
+height: 110px;
+left: 1109px;
+top: 281px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 54px;
+
+color: #BAE1B9;
+
+
+}
+#me {
+		 position: absolute;
+		 width: 220px;
+		 height: 46px;
+		 left: 1109px;
+		 top: 502px;
+         background-color:  #429D4B;
+         border: none;
+         color: white;
+         text-align: center;
+         align-items: center;
+         text-decoration: none;
+         display: inline-block;
+         font-family: "Poppins";
+         font-size: 30px;
+         cursor: pointer;
+         border-radius: 20px;
+         }
+#projects{
+		 position: absolute;
+		 width: 220px;
+		 height: 46px;
+		 left: 1390px;
+		 top: 502px;
+         background-color:  #4d88ff;
+         border: none;
+         color: white;
+         text-align: center;
+         align-items: center;
+         text-decoration: none;
+         display: inline-block;
+         font-family: "Poppins";
+         font-size: 30px;
+         cursor: pointer;
+         border-radius: 20px;
+}
+
+h3 {
+	position: absolute;
+	width: 601px;
+	height: 92px;
+	left: 1109px;
+	top: 614px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	line-height: 60px;
+	color: #BAE1B9;
+}
+
+#git {
+	position: absolute;
+	width: 59px;
+	height: 58px;
+	left: 1109px;
+	top: 756px;
+	border-radius: 200px;
+}
+
+#insta {
+	position: absolute;
+width: 59px;
+height: 58px;
+left: 1265px;
+top: 756px;
+border-radius: 150px;
+}
+
+#fb {
+	position: absolute;
+width: 59px;
+height: 58px;
+left: 1418px;
+top: 756px;
+border-radius: 170px;
+
+}

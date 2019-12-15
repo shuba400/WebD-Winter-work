@@ -1,0 +1,68 @@
+body {
+position: absolute;
+width: 1830px;
+height: 950px;
+
+background: url(Images/embedded_wall.png);
+background-size: cover;
+box-sizing: border-box;
+}
+
+h1 {
+position: absolute;
+width: 730px;
+height: 142px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 72px;
+line-height: 108px;
+
+color: #7FA8E7;
+}
+ 
+#pr1{
+position: absolute;
+width: 1841px;
+height: 270px;
+left: 25px;
+top: 152px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 60px;
+
+color: #C8D4FE;
+}
+
+#pr2{
+position: absolute;
+width: 1781px;
+height: 289px;
+left: 25px;
+top: 367px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 60px;
+color: #C8D4FE;
+}
+
+#pr3{
+position: absolute;
+width: 1775px;
+height: 271px;
+left: 25px;
+top: 641px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 60px;
+color: #C8D4FE;
+}
