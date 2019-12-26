@@ -1,0 +1,61 @@
+body{
+    font-family:cursive;
+    text-align:center;
+}
+.level1{
+    width:1140px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:hotpink;
+    width:75%;
+    color:aqua
+}
+.level2{
+    width:1140px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:purple;
+    width:75%;
+    color:hotpink;
+}
+.level3{
+     width:1140px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:orangered;
+    width:75%;
+    color:yellow;
+}
+.level4{
+     width:1140px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:aqua;
+    width:75%;
+    color:hotpink;
+}
+.level5{
+     width:1140px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:greenyellow;
+    width:75%;
+    color:white;
+}
+.level6
+{
+     width:1140px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:blue;
+    width:75%;
+    color:orange;
+}
+.level7{
+     width:1140px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:coral;
+    width:75%;
+    color:blue;
+}
